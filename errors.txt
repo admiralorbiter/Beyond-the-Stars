@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 13: invalid syntax
+    "camp.png" zoom 1.5
+                ^
+
+File "game/script.rpy", line 14: invalid syntax
+    "forest-spooky.jpg" zoom 1.5
+                         ^
+
+Ren'Py Version: Ren'Py 8.2.1.24030407
+Thu Jun 13 16:41:30 2024
